@@ -1,11 +1,10 @@
 body {
   background-color: SeaShell;
-  font-family: Arial;
-  padding: 10px;
 }
 
 h1 {
   color: Gray;
+  text-align: center;
 }
 
 p {

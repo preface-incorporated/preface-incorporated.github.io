@@ -11,9 +11,11 @@ p {
   color: Gray;
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
 }
 
 ul {
   color: Purple;
   font-size: 18px;
+  text-align: center;
 }
